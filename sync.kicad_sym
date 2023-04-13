@@ -6,10 +6,10 @@
     (property "Value" "LTC1485" (id 1) (at -8.89 3.81 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_DIP:DIP-8_W7.62mm" (id 2) (at 0 0 0)
+    (property "Footprint" "Package_SO:SO-8_3.9x4.9mm_P1.27mm" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Datasheet" "" (id 3) (at 0 0 0)
+    (property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/1485fb.pdf" (id 3) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "LTC1485_0_1"
